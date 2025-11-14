@@ -13,9 +13,9 @@
 </p>
 
 - 👾 **C++ / Cpp** — Skill 4, foco em performance, injeção, otimização de código baixo nível e desenvolvimento de ferramentas.
-- 🎮 **Gamehacking e Engenharia Reversa** — Análise de binários, debugging, criação de cheats para estudos, anti-cheat e proteção.
+- 🎮 **Gamehacking e Engenharia Reversa** — Análise de binários, debugging, criação de cheats e bypass de alto nivel .
 - 🕵️ **Digital Forensics** — Técnicas para análise, rastreamento de incidentes, coleta e rastreabilidade digital.
-- 🚓 **FiveM** — Experiência prática com scripts, engenharia reversa do client, proteção de recursos, exploit development e segurança de servidores.
+- 🚓 **FiveM** — focado em fivem , projetos de bypass ( UEFI,HYPERVISOR,SHELLCODE,SYSCALL,RDI) .
 
 ---
 
