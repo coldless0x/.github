@@ -10,7 +10,7 @@
 
 **Low-level C++ · Binary analysis · Digital forensics · FiveM-focused security research**
 
-[GitHub](https://github.com/coldless0x) · [Email](mailto:donthaveemail)
+[GitHub](https://github.com/coldless0x) · **Discord:** `0x283`
 
 </div>
 
@@ -74,6 +74,6 @@ I care about **correctness under constraints**: stable APIs, minimal surface are
 **Open to serious collaboration** on security research, tooling, and high-assurance native engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-coldless0x-333333?logo=github&logoColor=white)](https://github.com/coldless0x)
-[![ProtonMail](https://img.shields.io/badge/Email-coldless0x%40proton.me-6d4aff?logo=protonmail&logoColor=white)](mailto:coldless0x@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-0x283-5865F2?logo=discord&logoColor=white)](https://discord.com)
 
 </div>
