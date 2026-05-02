@@ -10,7 +10,7 @@
 
 **Low-level C++ · Binary analysis · Digital forensics · FiveM-focused security research**
 
-[GitHub](https://github.com/coldless0x) · [Email](mailto:coldless0x@proton.me)
+[GitHub](https://github.com/coldless0x) · [Email](mailto:donthaveemail)
 
 </div>
 
