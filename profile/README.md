@@ -4,21 +4,21 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=3000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Low-level+C%2B%2B+Engineer;Reverse+Engineering+%26+Forensics;Windows+Internals+Research;FiveM+Security+%26+Integrity+Research" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=3000&color=7C83FD&center=true&vCenter=true&width=900&lines=Low-level+Systems+Engineer;Reverse+Engineering+%26+Forensics;Windows+Internals+Research;FiveM+Integrity+%26+Security+Research" />
 
 ---
 
 # mov-0x283
 
-### Low-level C++ • Reverse Engineering • Digital Forensics • Windows Internals
+### Systems Programming • Reverse Engineering • Native Security Research
 
 <p align="center">
-Focused on native systems, hostile software analysis, and high-assurance tooling.
+Deep focus on Windows internals, hostile software analysis, forensic tooling, and low-level execution environments.
 </p>
 
 <p align="center">
 <a href="https://github.com/coldless0x">
-<img src="https://img.shields.io/badge/GitHub-coldless0x-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-coldless0x-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.com">
@@ -32,126 +32,138 @@ Focused on native systems, hostile software analysis, and high-assurance tooling
 
 # About
 
-I work at the intersection of **systems programming**, **binary analysis**, and **security research**.
+I specialize in **native Windows development**, **binary analysis**, and **security-oriented systems research**.
 
-My primary focus is understanding how modern Windows software interacts with:
-- memory
-- kernel boundaries
-- anti-tamper mechanisms
-- telemetry systems
-- low-level execution environments
+My work centers around understanding how modern software interacts with:
+- memory management
+- execution boundaries
+- kernel components
+- anti-tamper systems
+- telemetry pipelines
+- virtualization layers
 
-I value:
-- correctness
-- reproducibility
-- measurable behavior
-- minimal attack surface
-- clean engineering
+I prioritize:
+- deterministic behavior
+- minimal surface area
+- low-level correctness
+- measurable performance
+- reproducible analysis
 
-Most of my work revolves around:
-- native Windows internals
+Most projects revolve around:
+- Windows internals
 - reverse engineering workflows
 - forensic tooling
-- integrity research in FiveM-adjacent ecosystems
+- integrity systems
+- FiveM-focused research environments
 
 ---
 
-# Core Areas
-
-```txt
-C++ / Native Engineering
-█████████████████████████░   95%
-
-Reverse Engineering
-████████████████████████░░   90%
-
-Windows Internals
-███████████████████████░░░   88%
-
-Digital Forensics
-█████████████████████░░░░   82%
-
-Kernel Research
-████████████████████░░░░░   80%
-
-Hypervisor / VM Research
-███████████████████░░░░░░   74%
-```
-
----
-
-# Technical Focus
-
-## Systems Programming
-
-- Performance-oriented C++
-- ABI-aware design
-- Memory layout optimization
-- Execution environment control
-- Low-level debugging
-- Native Windows architecture
-
-## Reverse Engineering
-
-- Static & dynamic analysis
-- Control-flow reconstruction
-- Hooking & instrumentation
-- Obfuscation analysis
-- Anti-analysis research
-- Behavioral attribution
-
-## Digital Forensics
-
-- Artifact analysis
-- Timeline reconstruction
-- Memory acquisition
-- Traceability workflows
-- Incident-oriented tooling
-- Evidence-driven reporting
-
-## Advanced Research Topics
-
-- Physical memory mapping via `MmMapIoSpace`
-- PTE/PDE permission manipulation
-- CR3 context switching research
-- DMA attack simulation
-- Secure Kernel memory analysis
-- Hypervisor-oriented research
-- Anti-tamper & integrity systems
-
----
-
-# Tech Stack
+# Technical Profile
 
 <div align="center">
 
-| Area | Stack |
-|------|------|
-| Languages | C++, C, ASM |
-| Platforms | Windows Native |
-| Tooling | WinDbg, IDA, x64dbg, Visual Studio |
-| Research | RE, kernel internals, memory analysis |
-| Domains | Forensics, anti-tamper, integrity systems |
+| Domain | Focus |
+|--------|-------|
+| **Systems Engineering** | Native C++, ABI-aware design, low-level architecture |
+| **Reverse Engineering** | Static/dynamic analysis, instrumentation, control-flow analysis |
+| **Windows Internals** | Memory management, kernel interfaces, execution context |
+| **Digital Forensics** | Artifact analysis, traceability, memory acquisition |
+| **Security Research** | Integrity systems, anti-tamper analysis, telemetry behavior |
+| **Advanced Topics** | Hypervisor research, physical memory access, VM analysis |
 
 </div>
 
 ---
 
-# Philosophy
+# Research Areas
 
-> Precise language over buzzwords.  
-> Measurable behavior over assumptions.  
-> Research over hype.
+```cpp
+namespace research
+{
+    inline constexpr auto systems_programming =
+        "Performance-oriented native engineering";
 
-I approach security and systems work with a focus on:
-- reproducibility
-- documentation
-- evidence-based analysis
-- engineering discipline
+    inline constexpr auto reverse_engineering =
+        "Static & dynamic binary analysis";
+
+    inline constexpr auto windows_internals =
+        "Kernel memory, execution flow, internals";
+
+    inline constexpr auto forensics =
+        "Memory analysis & investigative tooling";
+
+    inline constexpr auto integrity_research =
+        "Anti-tamper & behavioral analysis";
+
+    inline constexpr auto virtualization =
+        "Hypervisor & VM-oriented research";
+}
+```
 
 ---
 
-# GitHub Analytics
+# Areas of Interest
+
+### Systems Programming
+- Native Windows architecture
+- Performance-critical C++
+- Execution environment control
+- Memory layout optimization
+- Low-level debugging
+
+### Reverse Engineering
+- Control-flow reconstruction
+- Hooking & instrumentation
+- Obfuscation analysis
+- Runtime behavior tracing
+- Anti-analysis research
+
+### Security & Internals
+- Physical memory mapping
+- PTE/PDE research
+- CR3 context manipulation
+- Secure Kernel analysis
+- DMA-oriented research
+- Hypervisor-assisted workflows
+
+### Digital Forensics
+- Timeline reconstruction
+- Artifact correlation
+- Memory acquisition
+- Investigative tooling
+- Traceability & reporting
+
+---
+
+# Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cmake,visualstudio,git,linux,windows" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Windows_Native-0d1117?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kernel_Research-161b22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-1f2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypervisor_Research-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Tooling
+
+```txt
+IDA Pro        • WinDbg        • x64dbg
+Visual Studio  • Ghidra        • VT-x / Hyper-V
+Process Monitor • PE analysis  • Native APIs
+```
+
+---
+
+# GitHub Metrics
 
 <div align="center">
 
@@ -163,7 +175,7 @@ I approach security and systems work with a focus on:
 
 ---
 
-# Activity Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -173,22 +185,26 @@ I approach security and systems work with a focus on:
 
 ---
 
-# Current Interests
+# Philosophy
 
-- Windows kernel internals
-- Hypervisor-assisted analysis
-- Memory forensics
-- Native anti-tamper systems
-- High-assurance native tooling
-- FiveM ecosystem integrity research
+> Precision over noise.  
+> Research over assumptions.  
+> Engineering over hype.
+
+I approach systems and security work with a focus on:
+- evidence-based analysis
+- reproducibility
+- clean architecture
+- technical depth
+- long-term maintainability
 
 ---
 
 <div align="center">
 
-## Open to collaboration
+## Open to serious collaboration
 
-Security research • Reverse engineering • Native tooling • Forensics
+Native tooling • Security research • Reverse engineering • Forensics
 
 <br/>
 
