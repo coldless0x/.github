@@ -1,79 +1,203 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
-<img src="https://img.shields.io/badge/Systems%20%26%20Security-1a1a2e?style=for-the-badge" height="28" alt="Systems" />
-<img src="https://img.shields.io/badge/Reverse%20Engineering-16213e?style=for-the-badge&logo=gnu&logoColor=white" height="28" alt="Reverse Engineering" />
-<img src="https://img.shields.io/badge/Digital%20Forensics-533483?style=for-the-badge" height="28" alt="Digital Forensics" />
-<img src="https://img.shields.io/badge/FiveM%20Ecosystem-f97e1a?style=for-the-badge&logo=rockstargames&logoColor=white" height="28" alt="FiveM" />
+<img src="https://skillicons.dev/icons?i=cpp,c,cmake,visualstudio,git,linux,windows" />
 
-# mov-0x283 
+<br/>
 
-**Low-level C++ · Binary analysis · Digital forensics · FiveM-focused security research**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=3000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Low-level+C%2B%2B+Engineer;Reverse+Engineering+%26+Forensics;Windows+Internals+Research;FiveM+Security+%26+Integrity+Research" />
 
-[GitHub](https://github.com/coldless0x) · **Discord:** `0x283`
+---
+
+# mov-0x283
+
+### Low-level C++ • Reverse Engineering • Digital Forensics • Windows Internals
+
+<p align="center">
+Focused on native systems, hostile software analysis, and high-assurance tooling.
+</p>
+
+<p align="center">
+<a href="https://github.com/coldless0x">
+<img src="https://img.shields.io/badge/GitHub-coldless0x-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-0x283-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## About
+# About
 
-I work at the intersection of **native code**, **hostile software analysis**, and **investigative tooling**. My focus is deep Windows internals, performance-sensitive C++, and understanding how complex applications—especially in game-adjacent and modded-server ecosystems like **FiveM**—interact with the OS, anti-tamper layers, and telemetry.
+I work at the intersection of **systems programming**, **binary analysis**, and **security research**.
 
-I care about **correctness under constraints**: stable APIs, minimal surface area, measurable behavior, and reproducible analysis—not guesswork.
+My primary focus is understanding how modern Windows software interacts with:
+- memory
+- kernel boundaries
+- anti-tamper mechanisms
+- telemetry systems
+- low-level execution environments
 
----
+I value:
+- correctness
+- reproducibility
+- measurable behavior
+- minimal attack surface
+- clean engineering
 
-## Core competencies
-
-### C++ / systems programming
-
-- Strong emphasis on **performance**, **memory layout**, and **ABI-aware** design.
-- Experience building **tools and loaders** where control over execution environment matters.
-- Comfortable from **user-mode** down to patterns that touch **firmware / hypervisor / kernel-adjacent** research contexts (where legally and ethically appropriate).
-
-### Reverse engineering & binary analysis
-
-- **Static and dynamic analysis** of compiled targets; **debugging** under realistic constraints.
-- **Instrumentation**, hooking strategies, and reasoning about **control flow**, **obfuscation**, and **anti-analysis** in the wild.
-- Mindset oriented toward **evidence**, **attribution of behavior**, and **documenting findings**—the same skill set applies to malware, protected binaries, and incident investigations.
-
-### Digital forensics
-
-- **Chain of custody**, **artifact discovery**, **timeline reconstruction**, and **traceability** across systems.
-- Framing technical work so it holds up in **review, reporting, and remediation**—not just “it worked on my machine.”
-
-### FiveM ecosystem (primary vertical)
-
-- Deep interest in how **client–server trust**, **server-side policy**, and **client integrity** play out in practice.
-- Hands-on familiarity with the **full stack of modern mitigations**: from **syscall discipline** and **manual mapping / reflective patterns** to **fileless** execution models and **hypervisor-level** research—always in the context of **understanding defenses**, not bypassing them for unauthorized use.
+Most of my work revolves around:
+- native Windows internals
+- reverse engineering workflows
+- forensic tooling
+- integrity research in FiveM-adjacent ecosystems
 
 ---
 
-## How I present my work
+# Core Areas
 
-- **Precise language** over buzzwords; I prefer diagrams, traces, and minimal repros.
-- **Security-conscious**: I separate **research** from **misuse** and align public material with responsible disclosure where applicable.
-- **Always learning**: tooling, mitigations, and platforms evolve; I optimize for fundamentals that transfer across engines and products.
+```txt
+C++ / Native Engineering
+█████████████████████████░   95%
+
+Reverse Engineering
+████████████████████████░░   90%
+
+Windows Internals
+███████████████████████░░░   88%
+
+Digital Forensics
+█████████████████████░░░░   82%
+
+Kernel Research
+████████████████████░░░░░   80%
+
+Hypervisor / VM Research
+███████████████████░░░░░░   74%
+```
 
 ---
 
-## Tech snapshot
+# Technical Focus
 
-| Area | Examples of depth |
-|------|-------------------|
-| Languages | C++, C (where it still wins), assembly literacy |
-| Platforms | Windows-focused native stack |
-| Domains | RE, forensics, anti-tamper / integrity research, FiveM-adjacent systems |
-| Practices | Low-level debugging, profiling, careful API design, documentation |
+## Systems Programming
+
+- Performance-oriented C++
+- ABI-aware design
+- Memory layout optimization
+- Execution environment control
+- Low-level debugging
+- Native Windows architecture
+
+## Reverse Engineering
+
+- Static & dynamic analysis
+- Control-flow reconstruction
+- Hooking & instrumentation
+- Obfuscation analysis
+- Anti-analysis research
+- Behavioral attribution
+
+## Digital Forensics
+
+- Artifact analysis
+- Timeline reconstruction
+- Memory acquisition
+- Traceability workflows
+- Incident-oriented tooling
+- Evidence-driven reporting
+
+## Advanced Research Topics
+
+- Physical memory mapping via `MmMapIoSpace`
+- PTE/PDE permission manipulation
+- CR3 context switching research
+- DMA attack simulation
+- Secure Kernel memory analysis
+- Hypervisor-oriented research
+- Anti-tamper & integrity systems
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+| Area | Stack |
+|------|------|
+| Languages | C++, C, ASM |
+| Platforms | Windows Native |
+| Tooling | WinDbg, IDA, x64dbg, Visual Studio |
+| Research | RE, kernel internals, memory analysis |
+| Domains | Forensics, anti-tamper, integrity systems |
+
+</div>
+
+---
+
+# Philosophy
+
+> Precise language over buzzwords.  
+> Measurable behavior over assumptions.  
+> Research over hype.
+
+I approach security and systems work with a focus on:
+- reproducibility
+- documentation
+- evidence-based analysis
+- engineering discipline
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coldless0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldless0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldless0x&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# Current Interests
+
+- Windows kernel internals
+- Hypervisor-assisted analysis
+- Memory forensics
+- Native anti-tamper systems
+- High-assurance native tooling
+- FiveM ecosystem integrity research
 
 ---
 
 <div align="center">
 
-**Open to serious collaboration** on security research, tooling, and high-assurance native engineering.
+## Open to collaboration
 
-[![GitHub](https://img.shields.io/badge/GitHub-coldless0x-333333?logo=github&logoColor=white)](https://github.com/coldless0x)
-[![Discord](https://img.shields.io/badge/Discord-0x283-5865F2?logo=discord&logoColor=white)](https://discord.com)
+Security research • Reverse engineering • Native tooling • Forensics
+
+<br/>
+
+<a href="https://github.com/coldless0x">
+<img src="https://img.shields.io/badge/GitHub-coldless0x-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-0x283-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
