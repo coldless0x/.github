@@ -22,7 +22,7 @@ Deep focus on Windows internals, hostile software analysis, forensic tooling, an
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-0x283-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-mmcopy-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
